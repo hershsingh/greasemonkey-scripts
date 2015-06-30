@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        MathJaxForEveryone
+// @name        MathJaxify!
 // @desription  Load MathJax on the current page by pressing F4
 // @version     0.1
 // @grant       none
